@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#top_icon {
+    margin-top: 20px;
+}
+
+#main-banner {
+    background: url(./images/bg-header-desktop.png) no-repeat;
+    margin-bottom: 5rem;
+}
+
+p {
+    color: #aaa;
+    width: 40%;
+    margin: 20px auto;
+}
+
+#mid_container {
+    margin: 30px;
+}
+
+#container2 {
+    text-align: left;
+    margin-left: 500px;
+    width: 20%;
+
+}
+
+button {
+    width: 10%;
+    height: 2rem;
+    border-radius: 30px;
+    margin: 20px 10px;
+    color: white;
+}
+
+.paragraph {
+    margin: 50px auto;
+}
+
+#mid_p {
+    clear: left;
+}
+
+.ios-button {
+    background-color: #aaa;
+}
+.mac-button {
+    background-color: rgb(58, 159, 199);
+}
+
+#comp_img {
+    float: left;
+    height: 400px;
+    position: absolute;
+    left: 0;
+}
+
+#devices_img {
+    height: 400px;
+}
+
+.top_icon {
+    display: block;
+    width: 30%;
+}
